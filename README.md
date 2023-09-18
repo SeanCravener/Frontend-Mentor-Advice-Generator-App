@@ -4,8 +4,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github](https://github.com/SeanCravener/frontend-mentor-challenges/tree/main/level-2/advice-generator-app)
-- Live Site URL: [CodePen](https://codepen.io/Beelzeboss92/pen/poZZaBJ)
+- Solution URL: [Github](https://github.com/SeanCravener/Frontend-Mentor-Advice-Generator-App)
+- Live Site URL: [Github Pages](https://seancravener.github.io/Frontend-Mentor-Advice-Generator-App/)
 
 ## My process
 
